@@ -1,0 +1,15 @@
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\bin\Debug\net7.0\p1.exe
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\bin\Debug\net7.0\p1.deps.json
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\bin\Debug\net7.0\p1.runtimeconfig.json
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\bin\Debug\net7.0\p1.dll
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\bin\Debug\net7.0\p1.pdb
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\obj\Debug\net7.0\p1.csproj.AssemblyReference.cache
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\obj\Debug\net7.0\p1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\obj\Debug\net7.0\p1.AssemblyInfoInputs.cache
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\obj\Debug\net7.0\p1.AssemblyInfo.cs
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\obj\Debug\net7.0\p1.csproj.CoreCompileInputs.cache
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\obj\Debug\net7.0\p1.dll
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\obj\Debug\net7.0\refint\p1.dll
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\obj\Debug\net7.0\p1.pdb
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\obj\Debug\net7.0\p1.genruntimeconfig.cache
+C:\Users\samsara\Desktop\ProjectEuler\Solved\p1\obj\Debug\net7.0\ref\p1.dll
