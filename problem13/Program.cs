@@ -5,7 +5,7 @@ internal class Problem_13_Large_Sum
 {
     public static void Main()
     {
-        string filePath = "C:/Users/samsara/Desktop/ProjectEuler/Solved/problem13/file.txt";
+        string filePath = "path/to/your/document/problem13/file.txt";  // Change This!
         BigInteger[] bigIntegers = ReadFileAsBigIntegers(filePath);
         BigInteger sum = 0;
         for(int i=0; i<bigIntegers.Length; i++)
