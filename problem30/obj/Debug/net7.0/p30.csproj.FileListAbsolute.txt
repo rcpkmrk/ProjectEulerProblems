@@ -1,0 +1,15 @@
+C:\Users\samsara\Desktop\ProjectEuler\p30\bin\Debug\net7.0\p30.exe
+C:\Users\samsara\Desktop\ProjectEuler\p30\bin\Debug\net7.0\p30.deps.json
+C:\Users\samsara\Desktop\ProjectEuler\p30\bin\Debug\net7.0\p30.runtimeconfig.json
+C:\Users\samsara\Desktop\ProjectEuler\p30\bin\Debug\net7.0\p30.dll
+C:\Users\samsara\Desktop\ProjectEuler\p30\bin\Debug\net7.0\p30.pdb
+C:\Users\samsara\Desktop\ProjectEuler\p30\obj\Debug\net7.0\p30.csproj.AssemblyReference.cache
+C:\Users\samsara\Desktop\ProjectEuler\p30\obj\Debug\net7.0\p30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsara\Desktop\ProjectEuler\p30\obj\Debug\net7.0\p30.AssemblyInfoInputs.cache
+C:\Users\samsara\Desktop\ProjectEuler\p30\obj\Debug\net7.0\p30.AssemblyInfo.cs
+C:\Users\samsara\Desktop\ProjectEuler\p30\obj\Debug\net7.0\p30.csproj.CoreCompileInputs.cache
+C:\Users\samsara\Desktop\ProjectEuler\p30\obj\Debug\net7.0\p30.dll
+C:\Users\samsara\Desktop\ProjectEuler\p30\obj\Debug\net7.0\refint\p30.dll
+C:\Users\samsara\Desktop\ProjectEuler\p30\obj\Debug\net7.0\p30.pdb
+C:\Users\samsara\Desktop\ProjectEuler\p30\obj\Debug\net7.0\p30.genruntimeconfig.cache
+C:\Users\samsara\Desktop\ProjectEuler\p30\obj\Debug\net7.0\ref\p30.dll
