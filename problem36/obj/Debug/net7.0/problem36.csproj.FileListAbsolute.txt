@@ -1,0 +1,15 @@
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\bin\Debug\net7.0\problem36.exe
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\bin\Debug\net7.0\problem36.deps.json
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\bin\Debug\net7.0\problem36.runtimeconfig.json
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\bin\Debug\net7.0\problem36.dll
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\bin\Debug\net7.0\problem36.pdb
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\obj\Debug\net7.0\problem36.csproj.AssemblyReference.cache
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\obj\Debug\net7.0\problem36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\obj\Debug\net7.0\problem36.AssemblyInfoInputs.cache
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\obj\Debug\net7.0\problem36.AssemblyInfo.cs
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\obj\Debug\net7.0\problem36.csproj.CoreCompileInputs.cache
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\obj\Debug\net7.0\problem36.dll
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\obj\Debug\net7.0\refint\problem36.dll
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\obj\Debug\net7.0\problem36.pdb
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\obj\Debug\net7.0\problem36.genruntimeconfig.cache
+C:\Users\samsara\Desktop\ProjectEuler\Solved\problem36\obj\Debug\net7.0\ref\problem36.dll
