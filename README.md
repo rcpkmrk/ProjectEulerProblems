@@ -1,2 +1,4 @@
 # Project Euler Problems' Solutions
-https://projecteuler.net/
+-Used C#  <br>
+-Website: https://projecteuler.net/
+
