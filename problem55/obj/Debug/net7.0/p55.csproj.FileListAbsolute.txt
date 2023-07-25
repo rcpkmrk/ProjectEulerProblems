@@ -1,0 +1,15 @@
+C:\Users\samsara\Desktop\ProjectEuler\p55\obj\Debug\net7.0\p55.csproj.AssemblyReference.cache
+C:\Users\samsara\Desktop\ProjectEuler\p55\obj\Debug\net7.0\p55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsara\Desktop\ProjectEuler\p55\obj\Debug\net7.0\p55.AssemblyInfoInputs.cache
+C:\Users\samsara\Desktop\ProjectEuler\p55\obj\Debug\net7.0\p55.AssemblyInfo.cs
+C:\Users\samsara\Desktop\ProjectEuler\p55\obj\Debug\net7.0\p55.csproj.CoreCompileInputs.cache
+C:\Users\samsara\Desktop\ProjectEuler\p55\bin\Debug\net7.0\p55.exe
+C:\Users\samsara\Desktop\ProjectEuler\p55\bin\Debug\net7.0\p55.deps.json
+C:\Users\samsara\Desktop\ProjectEuler\p55\bin\Debug\net7.0\p55.runtimeconfig.json
+C:\Users\samsara\Desktop\ProjectEuler\p55\bin\Debug\net7.0\p55.dll
+C:\Users\samsara\Desktop\ProjectEuler\p55\bin\Debug\net7.0\p55.pdb
+C:\Users\samsara\Desktop\ProjectEuler\p55\obj\Debug\net7.0\p55.dll
+C:\Users\samsara\Desktop\ProjectEuler\p55\obj\Debug\net7.0\refint\p55.dll
+C:\Users\samsara\Desktop\ProjectEuler\p55\obj\Debug\net7.0\p55.pdb
+C:\Users\samsara\Desktop\ProjectEuler\p55\obj\Debug\net7.0\p55.genruntimeconfig.cache
+C:\Users\samsara\Desktop\ProjectEuler\p55\obj\Debug\net7.0\ref\p55.dll

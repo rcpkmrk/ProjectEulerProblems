@@ -1,0 +1,15 @@
+C:\Users\samsara\Desktop\ProjectEuler\p56\obj\Debug\net7.0\p56.csproj.AssemblyReference.cache
+C:\Users\samsara\Desktop\ProjectEuler\p56\obj\Debug\net7.0\p56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsara\Desktop\ProjectEuler\p56\obj\Debug\net7.0\p56.AssemblyInfoInputs.cache
+C:\Users\samsara\Desktop\ProjectEuler\p56\obj\Debug\net7.0\p56.AssemblyInfo.cs
+C:\Users\samsara\Desktop\ProjectEuler\p56\obj\Debug\net7.0\p56.csproj.CoreCompileInputs.cache
+C:\Users\samsara\Desktop\ProjectEuler\p56\bin\Debug\net7.0\p56.exe
+C:\Users\samsara\Desktop\ProjectEuler\p56\bin\Debug\net7.0\p56.deps.json
+C:\Users\samsara\Desktop\ProjectEuler\p56\bin\Debug\net7.0\p56.runtimeconfig.json
+C:\Users\samsara\Desktop\ProjectEuler\p56\bin\Debug\net7.0\p56.dll
+C:\Users\samsara\Desktop\ProjectEuler\p56\bin\Debug\net7.0\p56.pdb
+C:\Users\samsara\Desktop\ProjectEuler\p56\obj\Debug\net7.0\p56.dll
+C:\Users\samsara\Desktop\ProjectEuler\p56\obj\Debug\net7.0\refint\p56.dll
+C:\Users\samsara\Desktop\ProjectEuler\p56\obj\Debug\net7.0\p56.pdb
+C:\Users\samsara\Desktop\ProjectEuler\p56\obj\Debug\net7.0\p56.genruntimeconfig.cache
+C:\Users\samsara\Desktop\ProjectEuler\p56\obj\Debug\net7.0\ref\p56.dll

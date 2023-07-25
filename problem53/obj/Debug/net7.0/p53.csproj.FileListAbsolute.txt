@@ -1,0 +1,15 @@
+C:\Users\samsara\Desktop\ProjectEuler\p53\obj\Debug\net7.0\p53.csproj.AssemblyReference.cache
+C:\Users\samsara\Desktop\ProjectEuler\p53\obj\Debug\net7.0\p53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsara\Desktop\ProjectEuler\p53\obj\Debug\net7.0\p53.AssemblyInfoInputs.cache
+C:\Users\samsara\Desktop\ProjectEuler\p53\obj\Debug\net7.0\p53.AssemblyInfo.cs
+C:\Users\samsara\Desktop\ProjectEuler\p53\obj\Debug\net7.0\p53.csproj.CoreCompileInputs.cache
+C:\Users\samsara\Desktop\ProjectEuler\p53\bin\Debug\net7.0\p53.exe
+C:\Users\samsara\Desktop\ProjectEuler\p53\bin\Debug\net7.0\p53.deps.json
+C:\Users\samsara\Desktop\ProjectEuler\p53\bin\Debug\net7.0\p53.runtimeconfig.json
+C:\Users\samsara\Desktop\ProjectEuler\p53\bin\Debug\net7.0\p53.dll
+C:\Users\samsara\Desktop\ProjectEuler\p53\bin\Debug\net7.0\p53.pdb
+C:\Users\samsara\Desktop\ProjectEuler\p53\obj\Debug\net7.0\p53.dll
+C:\Users\samsara\Desktop\ProjectEuler\p53\obj\Debug\net7.0\refint\p53.dll
+C:\Users\samsara\Desktop\ProjectEuler\p53\obj\Debug\net7.0\p53.pdb
+C:\Users\samsara\Desktop\ProjectEuler\p53\obj\Debug\net7.0\p53.genruntimeconfig.cache
+C:\Users\samsara\Desktop\ProjectEuler\p53\obj\Debug\net7.0\ref\p53.dll
