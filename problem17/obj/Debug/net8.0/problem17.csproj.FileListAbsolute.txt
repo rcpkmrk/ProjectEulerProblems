@@ -1,0 +1,14 @@
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\Solved\problem17\bin\Debug\net8.0\problem17.exe
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\Solved\problem17\bin\Debug\net8.0\problem17.deps.json
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\Solved\problem17\bin\Debug\net8.0\problem17.runtimeconfig.json
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\Solved\problem17\bin\Debug\net8.0\problem17.dll
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\Solved\problem17\bin\Debug\net8.0\problem17.pdb
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\Solved\problem17\obj\Debug\net8.0\problem17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\Solved\problem17\obj\Debug\net8.0\problem17.AssemblyInfoInputs.cache
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\Solved\problem17\obj\Debug\net8.0\problem17.AssemblyInfo.cs
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\Solved\problem17\obj\Debug\net8.0\problem17.csproj.CoreCompileInputs.cache
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\Solved\problem17\obj\Debug\net8.0\problem17.dll
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\Solved\problem17\obj\Debug\net8.0\refint\problem17.dll
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\Solved\problem17\obj\Debug\net8.0\problem17.pdb
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\Solved\problem17\obj\Debug\net8.0\problem17.genruntimeconfig.cache
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\Solved\problem17\obj\Debug\net8.0\ref\problem17.dll
