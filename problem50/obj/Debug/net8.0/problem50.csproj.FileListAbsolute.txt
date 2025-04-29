@@ -1,0 +1,14 @@
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\problem50\obj\Debug\net8.0\problem50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\problem50\obj\Debug\net8.0\problem50.AssemblyInfoInputs.cache
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\problem50\obj\Debug\net8.0\problem50.AssemblyInfo.cs
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\problem50\obj\Debug\net8.0\problem50.csproj.CoreCompileInputs.cache
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\problem50\bin\Debug\net8.0\problem50.exe
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\problem50\bin\Debug\net8.0\problem50.deps.json
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\problem50\bin\Debug\net8.0\problem50.runtimeconfig.json
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\problem50\bin\Debug\net8.0\problem50.dll
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\problem50\bin\Debug\net8.0\problem50.pdb
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\problem50\obj\Debug\net8.0\problem50.dll
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\problem50\obj\Debug\net8.0\refint\problem50.dll
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\problem50\obj\Debug\net8.0\problem50.pdb
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\problem50\obj\Debug\net8.0\problem50.genruntimeconfig.cache
+C:\Users\samsara\Desktop\Desktop\ProjectEuler\problem50\obj\Debug\net8.0\ref\problem50.dll
